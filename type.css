@@ -1,22 +1,17 @@
-body{
-    border-left: 5px;
-    border-radius: 20px;
+*{
+    color: white;
+    background-color: red;
 
-  
+    color: white;
 
-    background-color: rgb(50, 56, 45);
-    color: rgb(170, 207, 66);
 
-}
-
-h1{
     display: flexbox;
-    font-size: 3.5em;
+    font-size: 30px;
     margin: 0px 0px 0px 0px;
-    margin
 
-}
+    background-color: black;
 
-p{
-    margin-top: 0px;
+
+
+    color: red;
 }
