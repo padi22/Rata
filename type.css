@@ -1,17 +1,16 @@
-*{
+#tk{
+    color: blue;
+}
+
+[rancio="T1"]{
     color: white;
-    background-color: red;
-
-    color: white;
-
-
-    display: flexbox;
-    font-size: 30px;
-    margin: 0px 0px 0px 0px;
-
-    background-color: black;
-
-
-
+    background-color: yellow;
+     font-size: 30px;
+    margin: 10px 0px 10px 0px;
     color: red;
+}
+
+
+body{
+    background-color: rgb(80, 79, 79);
 }
